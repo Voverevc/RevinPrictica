@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Правда или действие</string>
+    <string name="spin">Крутите</string>
+    <string name="truth">Правда</string>
+    <string name="dare">Действие</string>
+    <string name="action_add">Далее</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="get_pos">Определите свою позицию</string>
+    <string name="add_truth">Правда</string>
+    <string name="add_dare">Действие</string>
+</resources>
